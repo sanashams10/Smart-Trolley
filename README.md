@@ -1,4 +1,5 @@
-![image](https://github.com/sanashams10/Smart-Trolley/assets/175038496/6c941875-6455-4b96-8cb4-b5b05cf04fbb)# Smart-Trolley
+Smart-Trolley - Lose your track of Losing Things.
+
 The Smart Trolley, using Arduino Uno and external motors, interfaced with a Bluetooth module as controller, to usher in the next age revolution, inclusivity-centered automation in India, especially driven for the citizens of age or PWD. 
 
 As a country that houses one of the highest number of senior citizenship and people with disabilities that make it challenging for them to be part of these growing industries, they need to be represented and stood up for, considering travel and groceries would be included in primary commodities of necessity.  It is due to these barriers of old age and physical or neurological obstacles, they are struggling in their mundane, day-to-day activities, especially in areas of carrying something as heavy and bulky as luggage trolleys or supermarket carts. 
